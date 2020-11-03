@@ -1,0 +1,82 @@
+"label","nodeID","name","scope","slicing","pulse"
+"organization","ContractingEntity","Contracting Entity",,,
+"artifact","UserLearningUnit","User Learning Unit",3,,
+"artifact","UserGuide","User Guide",2,,
+"artifact","SolutionOutcome","Solution Outcome",1,,
+"artifact","EnvironmentStructure","Environment Structure",3,,
+"artifact","SolutionVisionRoadmap","Solution Vision & Roadmap",3,,
+"artifact","CustomerJourney","Customer Journey",3,,
+"artifact","CorporateIdentity","Corporate Identity",3,,
+"area","Analysis","Analysis",1,,
+"discipline","SoftwareRequirements","Software Requirements",2,,
+"artifact","SoftwareRequirementsSpecification","Software Requirements Specification",2,,
+"aspect","FunctionalRequirements","Functional Requirements",2,"B+D","M"
+"aspect","NonfunctionalRequirements","Nonfunctional Requirements",2,"B+D","M"
+"discipline","DomainModeling","Domain Modeling",1,,
+"artifact","DomainModels","Domain Models",1,,
+"aspect","UseCaseModel","Use-Case Model",1,"D","L"
+"aspect","UseCaseNarrative","Use-Case Narrative",2,"B","H"
+"aspect","DataModel","Data Model",1,"D","L"
+"area","Experience","Experience",1,,
+"discipline","UserExperience","User Experience",1,,
+"artifact","UserJourney","User Journey",2,,
+"aspect","PersonasUsageScenarios","Personas, Usage Scenarios",2,"D","L"
+"aspect","UserInterfaceWorkflows","User Interface Workflows",2,"B","H"
+"artifact","InformationArchitecture","Information Architecture",1,,
+"aspect","UIStructure","UI Structure",1,"D","L"
+"aspect","UILanguageConventions","UI Language Conventions",2,"D","L"
+"discipline","UserInterface","User Interface",1,,
+"artifact","StyleGuide","Style Guide",3,,
+"aspect","VisualDesign","Visual Design",3,"B+D","M"
+"artifact","UserInterfaceSpecification","User Interface Specification",1,,
+"aspect","DescriptionofUIBehavior","Description of UI Behavior",1,"B","L"
+"aspect","UIPatternsUIFramework","UI Patterns, UI Framework",2,"B","M"
+"area","Architecture","Architecture",1,,
+"discipline","SoftwareArchitecture","Software Architecture",1,,
+"artifact","SoftwareArchitectureDescription","Software Architecture Description",1,,
+"aspect","FunctionalView","Functional View",1,"B+D","M"
+"aspect","InformationView","Information View",1,"D","M"
+"aspect","ConcurrencyView","Concurrency View",2,"B+D","M"
+"aspect","Perspectives","Perspectives",2,"B","M"
+"discipline","SystemArchitecture","System Architecture",2,,
+"artifact","SystemArchitectureDescription","System Architecture Description",2,,
+"aspect","ContextView","Context View",3,"D","M"
+"aspect","DeploymentView","Deployment View",2,"D","M"
+"aspect","OperationsView","Operations View",3,"B+D","M"
+"area","Development","Development",1,,
+"discipline","SoftwareImplementation","Software Implementation",3,,
+"artifact","TestReport","Test Report",2,,
+"artifact","Software","Software",1,,
+"aspect","TechnicalCode","Technical Code",1,"B","M"
+"aspect","DomainCode","Domain Code",1,"B","M"
+"discipline","SoftwareRefactoring","Software Refactoring",1,,
+"area","Configuration","Configuration",1,,
+"discipline","SoftwareVersioning","Software Versioning",1,,
+"artifact","EvolutionRecord","Evolution Record",1,,
+"aspect","SoftwareBranches","Software Branches",2,"B","M"
+"aspect","SoftwareVersions","Software Versions",1,"D","M"
+"discipline","SoftwareAssembly","Software Assembly",1,,
+"artifact","SoftwareDeploymentSet","Software Deployment Set",1,,
+"aspect","BinaryArtifacts","Binary Artifacts",1,"B","M"
+"area","Delivery","Delivery",1,,
+"discipline","SoftwareDeployment","Software Deployment",1,,
+"artifact","SoftwareInstallation","Software Installation",1,,
+"aspect","DeploymentScripts","Deployment Scripts",2,"B","M"
+"aspect","InstalledBinaryArtifacts","Installed Binary Artifacts",1,"B","M"
+"discipline","SoftwareOperations","Software Operations",1,,
+"aspect","SoftwareinProduction","Software in Production",1,"B","M"
+"area","Analytics","Analytics",2,,
+"discipline","SoftwareReview","Software Review",2,,
+"artifact","ReviewResults","Review Results",2,,
+"aspect","ReviewFeedback","Review Feedback",2,"B+D","M"
+"discipline","SoftwareTest","Software Test",2,,
+"aspect","Usability","Usability",2,"B+D","M"
+"aspect","Functionality","Functionality",2,"B+D","M"
+"aspect","Quality","Quality",2,"B+D","M"
+"area","Comprehension","Comprehension",2,,
+"discipline","UsageDocumentation","Usage Documentation",2,,
+"aspect","UsageTutorial","Usage Tutorial",2,"B","M"
+"aspect","FunctionalityReference","Functionality Reference",2,"D","M"
+"discipline","UserTraining","User Training",3,,
+"aspect","Lessons","Lessons",3,"D","M"
+"aspect","Exercises","Exercises",3,"D","M"

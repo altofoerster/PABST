@@ -1,0 +1,17 @@
+endID,startID,type
+SoftwareRequirements,Analysis,COMPOSED_OF
+DomainModeling,Analysis,COMPOSED_OF
+UserExperience,Experience,COMPOSED_OF
+UserInterface,Experience,COMPOSED_OF
+SoftwareArchitecture,Architecture,COMPOSED_OF
+SystemArchitecture,Architecture,COMPOSED_OF
+SoftwareImplementation,Development,COMPOSED_OF
+SoftwareRefactoring,Development,COMPOSED_OF
+SoftwareVersioning,Configuration,COMPOSED_OF
+SoftwareAssembly,Configuration,COMPOSED_OF
+SoftwareDeployment,Delivery,COMPOSED_OF
+SoftwareOperations,Delivery,COMPOSED_OF
+SoftwareReview,Analytics,COMPOSED_OF
+SoftwareTest,Analytics,COMPOSED_OF
+UsageDocumentation,Comprehension,COMPOSED_OF
+UserTraining,Comprehension,COMPOSED_OF
